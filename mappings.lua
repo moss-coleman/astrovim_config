@@ -25,4 +25,7 @@ return {
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
   },
+  i = {
+    ["kj"] = { "<esc>" }
+  },
 }
