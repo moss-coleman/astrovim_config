@@ -9,4 +9,6 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  'lervag/vimtex',
+  -- 'xuhdev/vim-latex-live-preview',
 }
